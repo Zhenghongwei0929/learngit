@@ -5,4 +5,10 @@ B
 B
 C
 C
-Git is a ver
+Gd
+dasd
+dasd1
+B
+:wq
+
+:it is a ver
