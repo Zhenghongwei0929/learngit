@@ -11,4 +11,12 @@ dasd1
 B
 :wq
 sd1
+Acrearing a new branch is quick
+B
+B
+D
+D
+C
+
+C
 
