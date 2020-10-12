@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 git is free software
 =======
@@ -72,3 +73,6 @@ A
 A
 
 >>>>>>> Stashed changes
+=======
+git is free software
+>>>>>>> 97cade1... fix bug 101
