@@ -7,7 +7,7 @@ C
 C
 Gd
 dasd
-dasd1
+dasd2
 B
 :wq
 sd1
@@ -18,5 +18,9 @@ D
 D
 C
 
+Csddadas
+
 C
+C
+creating a new branch is q
 
